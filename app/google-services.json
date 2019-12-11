@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "641486178922",
+    "firebase_url": "https://cleanliness-check.firebaseio.com",
+    "project_id": "cleanliness-check",
+    "storage_bucket": "cleanliness-check.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641486178922:android:c8cd14fe7386ffc4c85813",
+        "android_client_info": {
+          "package_name": "com.aditya.cleanlinesscheck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641486178922-4859lprg7vn3bgfq9u82bit7vv3qu0rj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aditya.cleanlinesscheck",
+            "certificate_hash": "977bb403c9a89b8ce1821eb9e120e89b394ebc66"
+          }
+        },
+        {
+          "client_id": "641486178922-mn3s5ifqk3f7tpii0rkm5n0g59fr622p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4a9Q8ybQkp9o8hYZWWTcjTf4bK5ipOGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641486178922-mn3s5ifqk3f7tpii0rkm5n0g59fr622p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
